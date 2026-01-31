@@ -76,3 +76,5 @@ if st.button("Analisa & Jawab 🤖"):
 # Footer
 st.divider()
 st.caption("AI Smart Reader by Faizal")
+
+# Update paksa
