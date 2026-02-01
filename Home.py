@@ -77,4 +77,3 @@ if st.button("Analisa & Jawab 🤖"):
 st.divider()
 st.caption("AI Smart Reader by Faizal")
 
-# Update paksa
