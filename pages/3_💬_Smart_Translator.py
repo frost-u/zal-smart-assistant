@@ -43,3 +43,7 @@ if st.button("Translate & Explain 🔍"):
             """
             response = model.generate_content(prompt)
             st.markdown(response.text)
+
+
+
+
